@@ -1,1 +1,4 @@
+void bye() {
+    std::cout << "Goodbye!" << std::endl;
+}
 
